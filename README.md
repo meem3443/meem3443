@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [사용자명]
+## Hi there! 👋 KIMJISNEO
 
 ### 🚀 About Me
 - 🎓 대학에서 **소프트웨어 개발**을 공부 중이며, **모바일 창업동아리 Motion의 회장**으로 활동 중입니다.
@@ -17,13 +17,11 @@
 
 ### 📌 Recent Projects
 - 🔹 **[코딩테스트 문제 자동 출제 프로그램](https://github.com/your-repo)** → 매일 특정 시간마다 새로운 코딩테스트 문제 출제 (MacOS)
-- 🔹 **[OCaml Parser 구현](https://github.com/your-repo)** → 직접 Lexer와 Parser를 단계별로 구현 중
-- 🔹 **[스마트 캠퍼스 프로젝트](https://github.com/your-repo)** → 디자인씽킹 기반으로 아이디어톤을 기획하고, 프로토타입 개발 중
 
 ### 📫 How to reach me
-- ✉️ Email: your.email@example.com
-- 🔗 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile/)
-- 📝 Blog: [your-blog-url](https://yourblog.com/)
+- ✉️ Email: jinsr0235@gmail.com
+- 🔗 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/jinseo-kim-6b735428b/))
+- 📝 Blog: []()
 
 ⚡ **"기술로 세상을 더 나은 방향으로 변화시키는 개발자"**가 되기 위해 성장하고 있습니다! 🚀  
 함께 협업할 기회가 있다면 언제든 연락 주세요! 😊  
