@@ -19,7 +19,7 @@
 
 ## Projects
 ### [Project Name]
-* **Description**: 
+* **Description**: AI based lecture making, smart alarm system 
 * **Tech Stack**: Go, Python, React, TypeScript, Docker, Railway
 * **Key Features & Role**: Head of Direct, Head of Develop
 * **Repository**: [Link](https://github.com/Voro-the-foxy/Voro)
