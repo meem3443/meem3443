@@ -17,13 +17,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Projects
-### [Project Name]
-* **Description**: AI based lecture making, smart alarm system 
-* **Tech Stack**: Go, Python, React, TypeScript, Docker, Railway
-* **Key Features & Role**: Head of Direct, Head of Develop
-* **Repository**: [Link](https://github.com/Voro-the-foxy/Voro)
-
 ## Contact
 * **Email**: jinsr0235@gmail.com
 * **LinkedIn**: [Profile](https://www.linkedin.com/in/jinseo-kim-6b735428b/)
